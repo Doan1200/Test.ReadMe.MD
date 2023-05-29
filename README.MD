@@ -1,4 +1,4 @@
-# II. Ngông ngữ Markdown
+# II. Ngôn ngữ Markdown
 
 **1. Thẻ tiêu đề**
 
@@ -147,6 +147,11 @@ Kết quả
 
 # III. Các thao tác với Git và Github
 
+**1. Repo**
+
+**Ba trạng thái của Repo**
+
+<img src= "https://camo.githubusercontent.com/1cf44b45b66ba1fc99f931bb12df659abd09fd20ab900d8783ba86a598db61a0/687474703a2f2f692e696d6775722e636f6d2f716b6d644a53522e706e67">
 
 
 
