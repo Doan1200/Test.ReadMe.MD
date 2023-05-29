@@ -30,7 +30,7 @@ Ví dụ:
 https://github.com
 ```
 
-https://github.com
+<https://github.com>
 
 
 Hoặc bạn cũng có thể dùng cú phát sau để thu ngắn đường link
@@ -41,7 +41,7 @@ Hoặc bạn cũng có thể dùng cú phát sau để thu ngắn đường link
 
 Kết quả là:
 
->Github
+Github
 
 Để chèn hình ảnh bạn hãy sử dụng cú pháp sau
 
@@ -79,14 +79,14 @@ Kết quả là:  `Đoạn cần bo`
 
 Để làm nổi bật một đoạn, chẳng hạn như một đoạn shell hay file cấu hình bạn có thể sử dụng cú pháp sau:
 
-``` sh
+'``` sh 
 auto eth0
 iface eth0 inet static
 ipaddress 10.10.10.10
 netmask 255.255.255.0
 gateway 10.10.10.1
 dns-nameservers 8.8.8.8
-```
+'```
 
 Kết quả như sau:
 
