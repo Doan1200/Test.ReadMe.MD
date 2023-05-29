@@ -1,4 +1,9 @@
+1. Thẻ tiêu đề
+
+Markdown sử dụng kí tự # để bắt đầu cho các thẻ tiêu đề, có thể dụng 1 đến 6 ký tự # liên tiếp. Mức độ tiêu đề giảm dần từ 1 --> 6.
+Ví dụ:
 # 1. Tiêu đề cấp 1
+
 ## 2. Tiêu đề cấp 2
 
 [Facebook] (https://www.facebook.com/)
