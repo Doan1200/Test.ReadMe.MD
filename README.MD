@@ -1,4 +1,4 @@
-#II. Ngông ngữ Markdown
+# II. Ngông ngữ Markdown
 
 **1. Thẻ tiêu đề**
 
