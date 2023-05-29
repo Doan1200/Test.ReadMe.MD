@@ -1,4 +1,4 @@
 # 1. Tiêu đề cấp 1
 
 [Facebook] (https://www.facebook.com/)
-<image.png>
+<img src= "image.png">
