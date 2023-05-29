@@ -24,13 +24,19 @@ Hoặc bạn cũng có thể dùng cú phát sau để thu ngắn đường link
 
 **3. Ký tự in đậm, in nghiêng**
 * Để in đậm một đoạn text bạn chỉ cần làm như sau:
+
     `**từ cần in đậm**`
 * Để in nghiêng một đoạn text bạn chỉ cần làm như sau:
+
     `*từ cần in nghiêng*`
+    
 **4. Trích dẫn, bo chữ**
-Để bo một đoạn text thì bạn chỉ cần sử dụng cú pháp sau:
-    `đoạn cần bo`
+Để bo một đoạn text thì bạn chỉ cần sử dụng cú pháp sau:    
+
+`Đoạn cần bo`
+
 Kết quả là `Đoạn cần bo`
+
 Để làm nổi bật một đoạn, chẳng hạn như một đoạn shell hay file cấu hình bạn có thể sử dụng cú pháp sau:
 ``` sh
 ```sh
