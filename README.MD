@@ -6,28 +6,38 @@ Markdown sử dụng kí tự # để bắt đầu cho các thẻ tiêu đề, c
 
 Ví dụ:
 
-`# 1. Tiêu đề cấp 1`
+``` sh
+# 1. Tiêu đề cấp 1
+```
 
 # 1. Tiêu đề cấp 1
 
-`## 2. Tiêu đề cấp 2`
+``` sh
+## 2. Tiêu đề cấp 2
+```
 
 ## 2. Tiêu đề cấp 2
 
-`###### 6. Tiêu đề cấp 6`
+``` sh
+###### 6. Tiêu đề cấp 6
+```
 
 **2. Chèn link và hình ảnh**
 
 Để chèn hyperlink bạn chỉ cần paste luôn link đó vào file .md
 
-`https://github.com`
+``` sh
+https://github.com
+```
 
 https://github.com
 
 
 Hoặc bạn cũng có thể dùng cú phát sau để thu ngắn đường link
 
-`[Github](http://github.com)`
+``` sh
+[Github](http://github.com)
+```
 
 Kết quả là:
 
@@ -35,28 +45,35 @@ Github
 
 Để chèn hình ảnh bạn hãy sử dụng cú pháp sau
 
-`<img src= "link_anh_cua_ban">`
-
+``` sh
+<img src= "link_anh_cua_ban">
+```
 
 **3. Ký tự in đậm, in nghiêng**
 
 * Để in đậm một đoạn text bạn chỉ cần làm như sau:
 
-    `**từ cần in đậm**`
+``` sh
+**từ cần in đậm**
+```
 
 **từ cần in đậm**
 
 * Để in nghiêng một đoạn text bạn chỉ cần làm như sau:
-    ``` sh
-    **Từ cần in đậm
-    ```
+
+``` sh
+*Từ cần in nghiêng*
+```
+
 *Từ cần in nghiêng*
 
 **4. Trích dẫn, bo chữ**
 
 Để bo một đoạn text thì bạn chỉ cần sử dụng cú pháp sau:    
 
-`Đoạn cần bo`
+``` sh
+Đoạn cần bo
+```
 
 Kết quả là `Đoạn cần bo`
 
@@ -73,13 +90,14 @@ dns-nameservers 8.8.8.8
 
 Kết quả như sau:
 
+``` sh
 auto eth0
 iface eth0 inet static
 ipaddress 10.10.10.10
 netmask 255.255.255.0
 gateway 10.10.10.1
 dns-nameservers 8.8.8.8
-
+```
 
 
 
