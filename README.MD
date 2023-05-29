@@ -79,7 +79,7 @@ Kết quả là:  `Đoạn cần bo`
 
 Để làm nổi bật một đoạn, chẳng hạn như một đoạn shell hay file cấu hình bạn có thể sử dụng cú pháp sau:
 
-\``` sh
+``` sh
 auto eth0
 iface eth0 inet static
 ipaddress 10.10.10.10
@@ -152,6 +152,8 @@ Kết quả
 **Ba trạng thái của Repo**
 
 <img src= "https://camo.githubusercontent.com/1cf44b45b66ba1fc99f931bb12df659abd09fd20ab900d8783ba86a598db61a0/687474703a2f2f692e696d6775722e636f6d2f716b6d644a53522e706e67">
+
+{@youtube: https://www.youtube.com/watch?v=BKaQy_qAd0w}
 
 
 
