@@ -56,7 +56,7 @@ Github
 
 Để bo một đoạn text thì bạn chỉ cần sử dụng cú pháp sau:    
 
-`Đoạn cần bo`
+``Đoạn cần bo`` 
 
 Kết quả là `Đoạn cần bo`
 
