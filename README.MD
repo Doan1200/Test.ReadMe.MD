@@ -72,10 +72,10 @@ Github
 Để bo một đoạn text thì bạn chỉ cần sử dụng cú pháp sau:    
 
 ``` sh
-Đoạn cần bo
+`Đoạn cần bo`
 ```
 
-Kết quả là `Đoạn cần bo`
+Kết quả là:  `Đoạn cần bo`
 
 Để làm nổi bật một đoạn, chẳng hạn như một đoạn shell hay file cấu hình bạn có thể sử dụng cú pháp sau:
 
