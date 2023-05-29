@@ -117,6 +117,18 @@ dns-nameservers 8.8.8.8
     - Thụt với đầu dòng 2
 ```
 
+- Gạch đầu dòng thứ nhất
+
+    - Thụt với đầu dòng 1
+
+    - Thụt với đầu dòng 1
+
+- Gạch đầu dòng thứ 2
+    
+    - Thụt với đầu dòng 2
+
+    - Thụt với đầu dòng 2
+
 
 
 
