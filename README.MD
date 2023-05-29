@@ -47,16 +47,16 @@ Github
 **từ cần in đậm**
 
 * Để in nghiêng một đoạn text bạn chỉ cần làm như sau:
-
-    `*từ cần in nghiêng*`
-
+    ``` sh
+    **Từ cần in đậm
+    ```
 *Từ cần in nghiêng*
 
 **4. Trích dẫn, bo chữ**
 
 Để bo một đoạn text thì bạn chỉ cần sử dụng cú pháp sau:    
 
-``Đoạn cần bo`` 
+`Đoạn cần bo`
 
 Kết quả là `Đoạn cần bo`
 
