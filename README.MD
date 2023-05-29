@@ -79,7 +79,7 @@ Kết quả là:  `Đoạn cần bo`
 
 Để làm nổi bật một đoạn, chẳng hạn như một đoạn shell hay file cấu hình bạn có thể sử dụng cú pháp sau:
 
-``` sh
+\``` sh
 auto eth0
 iface eth0 inet static
 ipaddress 10.10.10.10
