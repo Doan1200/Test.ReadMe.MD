@@ -41,7 +41,7 @@ Hoặc bạn cũng có thể dùng cú phát sau để thu ngắn đường link
 
 Kết quả là:
 
-<Github>
+>Github
 
 Để chèn hình ảnh bạn hãy sử dụng cú pháp sau
 
